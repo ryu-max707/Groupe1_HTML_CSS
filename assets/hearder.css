@@ -1,0 +1,100 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; /* Ensures the body takes at least the full height of the viewport */
+    font-family: Arial, sans-serif;
+}
+
+
+/*debut du css du hearder*/
+
+header {
+    position: center;
+    
+    height: 100px;
+        
+    display: flex; /* Active Flexbox */
+    justify-content: space-between; /* Espace le logo et le menu */
+    align-items: center; /* Centre verticalement les éléments */
+   
+    
+}
+
+/* Style de base pour la barre de recherche */
+.search-bar {
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+    height: 10px;
+}
+
+.search-bar input[type="search"] {
+    padding: 10px;
+    width: 200px;
+    height: 30px;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    font-size: 12px;
+    margin-right: 50px; /* Adjusted for icon */
+}
+
+.button1 {
+    background-color: #FF5733; /* Fond orange */
+    border: none; /* Pas de bordure */
+    border-radius: 20px; /* Coins arrondis */
+    padding: 10px 20px; /* Espacement intérieur */
+    font-size: 16px; /* Taille du texte */
+    color: white; /* Couleur du texte */
+    cursor: pointer; /* Curseur en forme de main */
+    display: flex; /* Pour aligner l'icône et le texte */
+    align-items: center; /* Centrer verticalement */
+    gap: 0px; /* Espace entre l'icône et le texte */
+    height: 30px;
+    margin-top: 45px; /* Reduced space */
+}
+
+nav ul {
+    display: flex; /* Aligne les éléments du menu horizontalement */
+    list-style: none; /* Supprime les puces de la liste */
+    margin: 0; /* Supprime les marges par défaut */
+    padding: 0;
+     
+}
+
+nav ul li {
+    margin: 0 25px;
+    margin-top: 50px;
+    
+}
+
+nav ul li a {
+    text-align: center;
+    text-decoration: none;
+    color: #007bff;
+    font-size: 14px;
+   
+}
+
+
+
+.logo {
+    font-size: 25px;
+}
+
+.lune {
+    margin-top: 300px;
+}
+
+
+
+
+
+
+
+
+
+
