@@ -5,8 +5,7 @@ body{
 }
 
 .container{
-    width: 1000px;
-    margin: 0 auto;
+    
 }
 
 h4{
@@ -39,10 +38,13 @@ button{
     height: 500px;
     background-color: rgb(233, 231, 231);
     padding-top: 40px;
+    margin: 0 auto;
+    border: solid 0px;
+    justify-content: center;
 }
  
 .head{
-    margin-left: 80px;
+    margin-left: 100px;
     margin-top: 0px;
 }
 .service{
@@ -110,7 +112,7 @@ button{
 }
 
 .df{
-    margin-left: 80px;
+    margin-left: 100px;
 }
 
 /* Frame 45 */
@@ -132,13 +134,13 @@ button{
 }
 
 .car{
-    width: 30%;
-    height: 130px;
+    width: 25%;
+    height: 110px;
     background-color: white;
     border-radius: 10px;
     margin: 0 auto;
     display: flex;
-    gap: 10px;
+    
 }
 
 .car p{
