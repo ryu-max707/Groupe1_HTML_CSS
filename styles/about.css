@@ -10,7 +10,7 @@
     justify-content: center;
     background: #E2DADA;
     width: 100%;
-    height: 300px;
+    height: 250px;
 }
 .div2{
     display: flex;
@@ -29,7 +29,7 @@
 .div4{
     background-color: white;
     width: 100%;
-    height: 678px;
+    height: 550px;
     background: #FFFFFF;
 
 
@@ -53,14 +53,15 @@
 }
 .div8{
     display: flex;
-    padding-left: 330px;
+    padding-left: 340px;
 
-    margin-top: -115px;
+    margin-top: -95px;
 }
 .div9{
     display: flex;
     gap: 5px;
     padding-right: 180px;
+    
 }
 .div10{
     display: flex;
@@ -71,11 +72,12 @@
     display: flex;
     gap: 5px;
     padding-right: 170px;
+    padding-left: 15px;
 }
 .div12{
     display: flex;
     gap: 5px;
-    
+    padding-left: 15px;
 }
 .rectangle1{
     width: 300px;
@@ -101,23 +103,23 @@
 }
 .rectangle8{
 width: 220px;
-height: 100px;
+height: 80px;
 background: #D9D9D9;
 }
 
 .rectangle9{
     width: 220px;
-height: 100px;
+    height: 80px;
 background: #D9D9D9;
 }
 .rectangle10{
     width: 220px;
-height: 100px;
+    height: 80px;
 background: #D9D9D9;
 }
 .rectangle11{
     width: 220px;
-height: 100px;
+    height: 80px;
 background: #D9D9D9;
 }
 .LOGO1{
@@ -242,13 +244,14 @@ background: #D9D9D9;
 
 }
 .T11{
-    padding-left: 1Opx;
+    padding-left: 5px;
+    
 }
 .T12{
-    padding-left: 10px;
+    padding-left: 5px;
 }
 .T13{
-padding-left: 10px;
+padding-left: 5px;
 }
 .T14{
     font-family: 'Poppins';
@@ -310,7 +313,7 @@ padding-left: 10px;
     line-height: 30px;
     color: #2B75F3;
     text-align: center;
-    padding-top: 50px;
+    padding-top: 60px;
 }
 .T21{
     font-family: 'Poppins';
@@ -326,7 +329,7 @@ padding-left: 10px;
 font-family: 'Poppins';
 font-style: normal;
 font-weight: 600;
-font-size: 24px;
+font-size: 20px;
 line-height: 0px;
 margin-left: 15px;
 color: #000000;
@@ -335,7 +338,7 @@ color: #000000;
 font-family: 'Poppins';
 font-style: normal;
 font-weight: 400;
-font-size: 20px;
+font-size: 15px;
 line-height: 0px;
 margin-left: 15px;
 color: #000000;
@@ -344,7 +347,7 @@ color: #000000;
 font-family: 'Poppins';
 font-style: normal;
 font-weight: 600;
-font-size: 24px;
+font-size: 20px;
 line-height: 0px;
 margin-left: 15px;
 color: #000000;
@@ -354,7 +357,7 @@ color: #000000;
 font-family: 'Poppins';
 font-style: normal;
 font-weight: 400;
-font-size: 20px;
+font-size: 15px;
 line-height: 0px;
 margin-left: 15px;
 color: #000000;
@@ -363,7 +366,7 @@ color: #000000;
 font-family: 'Poppins';
 font-style: normal;
 font-weight: 600;
-font-size: 24px;
+font-size: 20px;
 line-height: 0px;
 margin-left: 15px;
 color: #000000;
@@ -373,7 +376,7 @@ color: #000000;
 font-family: 'Poppins';
 font-style: normal;
 font-weight: 400;
-font-size: 20px;
+font-size: 15px;
 line-height: 0px;
 margin-left: 15px;
 color: #000000;
@@ -383,7 +386,7 @@ color: #000000;
 font-family: 'Poppins';
 font-style: normal;
 font-weight: 600;
-font-size: 24px;
+font-size: 20px;
 line-height: 0px;
 margin-left: 15px;
 color: #000000;
@@ -393,14 +396,14 @@ color: #000000;
 font-family: 'Poppins';
 font-style: normal;
 font-weight: 400;
-font-size: 20px;
+font-size: 15px;
 line-height: 0px;
 margin-left: 15px;
 color: #000000;
 }
 .T30{
-    width: 30px;
-    height: 30px;
+    width: 25px;
+    height: 25px;
     border-radius: 50%;
     background-color: #102343;
     display: flex;
@@ -411,8 +414,8 @@ color: #000000;
 }
 
 .T31{
-    width: 30px;
-    height: 30px;
+    width: 25px;
+    height: 25px;
     border-radius: 50%;
     background-color: #2B75F3;
     display: flex;
@@ -420,8 +423,8 @@ color: #000000;
     align-items: center;
 }
 .T32{
-    width: 30px;
-    height: 30px;
+    width: 25px;
+    height: 25px;
     border-radius: 50%;
     background-color: #102343;
     display: flex;
@@ -431,16 +434,16 @@ color: #000000;
 }
 
 .T33{
-    width: 30px;
-    height: 30px;
+    width: 25px;
+    height: 25px;
     border-radius: 50%;
     background-color: #2B75F3;
     display: flex;
     justify-content: center;
     align-items: center;
 }.T34{
-    width: 30px;
-    height: 30px;
+    width: 25px;
+    height: 25px;
     border-radius: 50%;
     background-color: #102343;
     display: flex;
@@ -450,8 +453,8 @@ color: #000000;
 }
 
 .T35{
-    width: 30px;
-    height: 30px;
+    width: 25px;
+    height: 25px;
     border-radius: 50%;
     background-color: #2B75F3;
     display: flex;
@@ -459,8 +462,8 @@ color: #000000;
     align-items: center;
 }
 .T36{
-    width: 30px;
-    height: 30px;
+    width: 25px;
+    height: 25px;
     border-radius: 50%;
     background-color: #102343;
     display: flex;
@@ -470,8 +473,8 @@ color: #000000;
 }
 
 .T37{
-    width: 30px;
-    height: 30px;
+    width: 25px;
+    height: 25px;
     border-radius: 50%;
     background-color: #2B75F3;
     display: flex;
@@ -481,6 +484,7 @@ color: #000000;
 .image1{
     width: 420px;
     height: 217px;
+    padding-top: 25px;
 }
 
 .image2{
